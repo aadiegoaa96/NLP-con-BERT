@@ -30,18 +30,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 * 
-* C# LANGUAGE
-* VISUAL STUDIO .NET FRAMEWORK
 *
 ### Instalación 🔧
 
-* https://www.arduino.cc/en/main/OldSoftwareReleases 
-* https://visualstudio.microsoft.com/es/vs/
-* https://www.labcenter.com/pcb/
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [ZedGraph](http://www.dropwizard.io/1.0.2/docs/) - This framework provides real-time Graphics for rendering Preasure and Temperature
 
 ## Autores ✒️
 
