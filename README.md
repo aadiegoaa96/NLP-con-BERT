@@ -8,17 +8,7 @@ _Acá va un párrafo que describa lo que es el proyecto_
 ## 🚀
 
 
-
-
-* PCB DESIGN WITH PROTEUS: 
-
-
-
-
-![BANCO DE PRUEBAS HIDROSTATICAS](https://user-images.githubusercontent.com/22797982/90323407-96349080-df26-11ea-96e5-f97a27f3d875.png)
-
-
-
+!  [SISTEMA PREGUNTAS Y RESPUESTAS DE LEY DE TRÁNSITO DE VERACRUZ] (https://user-images.githubusercontent.com/22797982/103490555-4590d780-4de2-11eb-9ead-3a5931883649.png)
 
 
 * REAL TIME REACTION
